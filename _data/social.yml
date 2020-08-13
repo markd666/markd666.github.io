@@ -1,16 +1,16 @@
 # Icons on the footer
 rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: mark.shilton@gmail.com    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "markd666"
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin: https://www.linkedin.com/in/mark-shilton/        # Full URL
 pinterest:
 reddit:
 soundcloud:
@@ -18,7 +18,7 @@ stack_overflow:
 stack_exchange:   # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter:      markshilton   # "twitter username"
 vimeo:
 wordpress:
 youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
@@ -29,12 +29,12 @@ feed:
 
 # Share button options
 share:
-  facebook: true
+  facebook: false
   twitter: true
   tumblr:
   pinterest:
   pocket:
-  reddit: true
-  linkedin:
+  reddit: false
+  linkedin: true
   wordpress:
   email: true
