@@ -6,5 +6,5 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
 
-Engineer working in the Space industry.
+Robotic Systems Engineer working in the Space industry or a Space Engineer working in the robotics industry...
  
