@@ -5,8 +5,6 @@ img: "assets/img/portfolio/toh.png"
 date: April 2022
 ---
 
-# Books of 2022
-
 Visual list of books I've been reading so far in 2022...
 
 
