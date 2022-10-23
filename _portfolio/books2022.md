@@ -18,6 +18,6 @@ Visual list of books I've been reading so far in 2022...
 
 {% include aligner.html images="books/2022/creative_confidence.jpg,books/2022/Intro_to_robotics.jpg,books/2022/shuggie_bain.jpg" column="auto" %}
 
-{% include aligner.html images="books/2022/structures.jpg,books/2022/Intro_to_robotics.jpg" column="auto" %}
+{% include aligner.html images="books/2022/structures.jpg,books/2022/build.jpg" column="auto" %}
 
 {% include aligner.html images="books/2022/talent.jpg,books/2022/team_of_teams.jpg,books/2022/where_the_crawdads_sing.jpg" column="auto" %}
