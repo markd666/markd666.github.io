@@ -14,7 +14,7 @@ Visual list of books I've been reading so far in 2023...
 
 {% include aligner.html images="books/2023/how_big_things_get_done.jpg,books/2023/material_world.jpg,books/2023/more_money_than_god.jpg" column="auto" %}
 
-{% include aligner.html images="books/2023/the_geek_way.jpg,books/2023/the_managers_path.jpg,books/2023/thinking_slow_and_fast.jpg" column="auto" %}
+{% include aligner.html images="books/2023/the_geek_way.jpg,books/2023/the_managers_path.jpg,books/2023/thinking_fast_and_slow.jpg" column="auto" %}
 
 {% include aligner.html images="books/2023/turn_the_ship_around.jpg,books/2023/2_second_lean.jpg" column="auto" %}
 
