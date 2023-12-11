@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Books 2022
+title: Books 2023
 img: "assets/img/portfolio/toh.png"
-date: April 2022
+date: December 2023
 ---
 
-Visual list of books I've been reading so far in 2022...
+Visual list of books I've been reading so far in 2023...
 
 
 {% include aligner.html images="books/2022/engineers_of_victory.jpg,books/2022/fahrenheit451.jpg,books/2022/how_the_war_was_won.jpg" column="auto" %}
@@ -19,3 +19,9 @@ Visual list of books I've been reading so far in 2022...
 {% include aligner.html images="books/2022/structures.jpg,books/2022/build.jpg" column="auto" %}
 
 {% include aligner.html images="books/2022/talent.jpg,books/2022/team_of_teams.jpg,books/2022/where_the_crawdads_sing.jpg" column="auto" %}
+
+{% include aligner.html images="books/2022/our_robot_ourselves.jpg,books/2022/range.jpg,books/2022/the_idea_factory.jpg" column="auto" %}
+
+{% include aligner.html images="books/2022/good_strategy_bad_strategy.jpg,books/2022/how_to_be_a_founder.jpg,books/2022/chip_war.jpg" column="auto" %}
+
+{% include aligner.html images="books/2022/cleverlands.jpg%}
