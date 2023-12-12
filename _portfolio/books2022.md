@@ -22,6 +22,6 @@ Visual list of books I've been reading so far in 2023...
 
 {% include aligner.html images="books/2022/our_robot_ourselves.jpg,books/2022/range.jpg,books/2022/the_idea_factory.jpg" column="auto" %}
 
-{% include aligner.html images="books/2022/good_strategy_bad_strategy.jpg,books/2022/how_to_be_a_founder.jpg,books/2022/chip_war.jpg" column="auto" %}
+{% include aligner.html images="books/2022/good_strategy_bad_strategy.jpg,books/2022/founder.jpg,books/2022/chip_war.jpg" column="auto" %}
 
 {% include aligner.html images="books/2022/cleverlands.jpg" column="auto" %}
